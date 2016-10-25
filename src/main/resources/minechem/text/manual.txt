@@ -1,0 +1,16 @@
+{b}Minechem Reloaded Manual
+Table of Contents:
+{1:general}General Tips
+{/}
+
+
+{1:decomposer}Chemical Decomposer
+{-------------------------------------------------------------}
+{b}General Tips
+{n:general}
+This is a bunch of text to come soon!
+{-------------------------------------------------------------}
+{b}Chemical Decomposer
+{n:decomposer}
+Here be future info on the Cemical Decomposer
+{-------------------------------------------------------------}

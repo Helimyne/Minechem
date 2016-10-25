@@ -1,15 +1,15 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "minechem",
+  "name": "Minechem Reloaded",
+  "description": "Minechem is a mod about chemistry. Research blocks and items, then break them down into their base compounds and elements!",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
-  "logoFile": "",
+  "authorList": ["Helimyne"],
+  "credits": "jakimfett for making the original mod, and his patreons!",
+  "logoFile": "assets/minechem/logo.png",
   "screenshots": [],
   "dependencies": []
 }
